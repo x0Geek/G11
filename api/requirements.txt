@@ -1,0 +1,10 @@
+# Logger
+psutil
+cryptography
+requests
+requests-toolbelt
+colorama
+pyinstaller
+pillow
+pycryptodomex
+
